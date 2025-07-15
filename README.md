@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Emerson!
+- 👋 Olá, eu me chamo Emerson!
 - 🌱 Sou estudante de engenharia de software.
 
 
