@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @EspLittleDev
-- 🌱 I’m currently learning ...
-
+- 👋 Olá, me chamo Emerson!
+- 🌱 Sou estudante de engenharia de software.
 
 
 <!---
